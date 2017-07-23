@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=U1kXlahkwd4
 
 ## Pruebas varias
 Hacemos cambios al README, veamos si funciona.
+
+## Cambios finales
+Estos cambios los dejamos listos
